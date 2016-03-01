@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./praelectionesth09perrgoog/praelectionesth09perrgoog_0008.png"; bbox 0 0 3700 5659; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 523 1469 770">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 523 1469 770">
+     <span class='ocr_line' id='line_1_1' title="bbox 426 523 1469 770; baseline -0.047 -1.109"><span class='ocrx_word' id='word_1_1' title='bbox 426 523 568 766; x_wconf 89' lang='grc' dir='ltr'>ΙΙΙ</span> <span class='ocrx_word' id='word_1_2' title='bbox 600 524 612 765; x_wconf 93' lang='grc' dir='ltr'>ΙΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 649 525 667 766; x_wconf 75' lang='lat' dir='ltr'>ss!</span> <span class='ocrx_word' id='word_1_4' title='bbox 698 525 716 766; x_wconf 74' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 755 525 766 766; x_wconf 57' lang='lat'>11</span> <span class='ocrx_word' id='word_1_6' title='bbox 805 525 1098 770; x_wconf 56' lang='lat' dir='ltr'>*nmmum</span> <span class='ocrx_word' id='word_1_7' title='bbox 1236 545 1333 646; x_wconf 68' lang='lat'>⁴⁴¹</span> <span class='ocrx_word' id='word_1_8' title='bbox 1364 547 1469 649; x_wconf 70' lang='lat'>¹⁵⁷</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 522 777 1089 822">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 522 777 1089 822">
+     <span class='ocr_line' id='line_1_2' title="bbox 522 777 1089 822; baseline -0.056 -11"><span class='ocrx_word' id='word_1_9' title='bbox 522 777 1089 822; x_wconf 61' lang='lat'>*5907781543*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1854 5659">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1854 5659">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1854 5659; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1854 5659; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
